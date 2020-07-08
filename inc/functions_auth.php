@@ -45,6 +45,4 @@ function isOwner($user_id)
 }
 
 
-
-
 ?>
